@@ -3,4 +3,4 @@
 
 * The thesis investigates two main approaches for invoice data extraction: a natural language processing (NLP) approach and an object detection approach. The NLP approach uses a pre-trained BERT model to encode the invoice text and perform named entity recognition (NER) to identify and extract the relevant information. The object detection approach uses a pre-trained Faster R-CNN model to detect and localize the invoice regions and perform optical character recognition (OCR) to extract the text and information from the regions. The thesis compares the performance of the two approaches using various evaluation metrics, such as precision, recall, and F1-score.
 
-! [Loss] (/loss.png?raw=true “Loss”)
+![Loss](/loss.png?raw=true“Loss”)
